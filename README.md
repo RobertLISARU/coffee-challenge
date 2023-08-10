@@ -1,3 +1,5 @@
+![image](https://github.com/robertlisaru/AgileFreaks-coffee-shops-app-test/assets/40792547/b92821fd-c4bc-44fc-acfc-92c36129f146)
+
 ## Agile Freaks interview challenge, 2021
 My first React app, and my [first PR](https://github.com/robertlisaru/AgileFreaks-coffee-shops-app-test/pull/2) being reviewed.
 It took me 5 days to understand the basics of the framework and complete the challenge. It's a long time, but I had no previous interactions with any web frameworks at that time. Once you understand how one framework works, learning a second one becomes much easier, as you then know what to look for.
